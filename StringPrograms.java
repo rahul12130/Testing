@@ -3,7 +3,7 @@ public class StringPrograms {
 	public static void main(String[] args) {
 		String str = "123";
 
-		System.out.println(reverse(str));
+		System.out.println(reverse(str))
 	}
 
 	public static String reverse(String in) {
